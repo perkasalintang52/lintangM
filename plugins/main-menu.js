@@ -1,10 +1,11 @@
 /**
-* create by hyzer official
+* create by KAMAGAPO BOT
 * g usah di hapus anjg, gw cape sumpah
 * sc free, bayar pake subs aja udh good
 * jika ada bug/mau request fitur
-* chat me on wa https://wa.me/6287892711054
-* follow my instagram @zexyds_
+* chat me on wa https://wa.me/6281322577123
+* follow my instagram @joceylintangg
+* follow my tiktok @joceylintangg
 **/
 
 //━━━━━━━━[ DEFAULT SETTINGS ]━━━━━━━━//
